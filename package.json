@@ -6,6 +6,10 @@
     "files": [
         "dist"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BekhzodAliakbarov1/rollup-project.git"
+    },
     "types": "dist/index.d.ts",
     "scripts": {
         "rollup": "rollup -c --bundleConfigAsCjs",
